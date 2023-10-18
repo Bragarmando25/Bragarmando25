@@ -1,7 +1,9 @@
 - **Armando A. de O. Braga.** 
 - **Estudante de Ciência da Computação.**
 - **Estudando Java, C, JavaScript,e TypeScript.**
+- 
 -**[Instagram](https://www.instagram.com/braga_armando_25/)**
+  
 -**[LinkedIn](https://www.linkedin.com/in/armando-braga-4169b2253/)**
 
 <!---
