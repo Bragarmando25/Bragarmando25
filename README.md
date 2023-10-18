@@ -1,7 +1,7 @@
 - Armando A. de O. Braga. 
 - Computer science student.
 - Studying Java, C, JavaScript, and TypeScript.
-- [Texto âncora](https://www.instagram.com/seu_nome_de_usuario/)
+- **Siga-me no Instagram:** [Meu Instagram](https://www.instagram.com/braga_armando_25/)
 - Linkedin: Armando Braga.
   
 <!---
